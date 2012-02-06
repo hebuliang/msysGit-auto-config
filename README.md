@@ -1,16 +1,16 @@
 msysGit auto config shell
 =========================
 
-#ËµÃ÷
--------  
-×Ô¶¯ÅäÖÃ½Å±¾:  
-1.ÐÞÕýlsÃüÁîÖÐÎÄÂÒÂë  
-2.ÐÞÕýlog·ÖÒ³ÖÐÎÄÂÒÂë  
-3.Git BashÖÐÕý³£ÊäÈëÖÐÎÄ  
-4.ÉèÖÃgitÓÃ»§Ãû  
-5.ÉèÖÃgitÓÊ¼þ   
+#è¯´æ˜Ž
+-----   
+è‡ªåŠ¨é…ç½®è„šæœ¬:  
+1.ä¿®æ­£lså‘½ä»¤ä¸­æ–‡ä¹±ç   
+2.ä¿®æ­£logåˆ†é¡µä¸­æ–‡ä¹±ç   
+3.Git Bashä¸­æ­£å¸¸è¾“å…¥ä¸­æ–‡  
+4.è®¾ç½®gitç”¨æˆ·å  
+5.è®¾ç½®gité‚®ä»¶   
   
-#Ê¹ÓÃ·½·¨
------------  
-1.½«msysGit_auto_config.shÎÄ¼þ¿½±´ÖÁÈÎÒâÄ¿Â¼(ÎÒ·ÅÔÚd:¸ùÄ¿Â¼ÏÂ)  
-2.°²×°ÍêmsysGitºóÔËÐÐGit Bash(Ò»°ã»áÔÚ×ÀÃæÉÏ½¨Á¢Ò»¸ö¿ì½Ý·½Ê½),ÔËÐÐsh /d/msysGit_auto_config.sh(×¢: Git BashÖÐÄ¿Â¼µÄÐ´·¨Îª/d(ÅÌ·û)/xxx/xxx),³öÏÖÌáÊ¾ºóÊäÈëmsysGitµÄ°²×°Â·¾¶(Àý:/d/Program Files/Git),ÆäËû²Ù×÷²Î¼ûÊ£ÓàÌáÊ¾,±È½Ï¼òµ¥¡£
+#ä½¿ç”¨æ–¹æ³•
+---------    
+1.å°†msysGit_auto_config.shæ–‡ä»¶æ‹·è´è‡³ä»»æ„ç›®å½•(æˆ‘æ”¾åœ¨d:æ ¹ç›®å½•ä¸‹)  
+2.å®‰è£…å®ŒmsysGitåŽè¿è¡ŒGit Bash(ä¸€èˆ¬ä¼šåœ¨æ¡Œé¢ä¸Šå»ºç«‹ä¸€ä¸ªå¿«æ·æ–¹å¼),è¿è¡Œsh /d/msysGit_auto_config.sh(æ³¨: Git Bashä¸­ç›®å½•çš„å†™æ³•ä¸º/d(ç›˜ç¬¦)/xxx/xxx),å‡ºçŽ°æç¤ºåŽè¾“å…¥msysGitçš„å®‰è£…è·¯å¾„(ä¾‹:/d/Program Files/Git),å…¶ä»–æ“ä½œå‚è§å‰©ä½™æç¤º,æ¯”è¾ƒç®€å•ã€‚
