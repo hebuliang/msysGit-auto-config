@@ -3,7 +3,7 @@ msysGit auto config shell
 
 #说明
 -----   
-自动配置脚本:  
+msysGit自动配置脚本(主要针对windows环境下中文问题):  
 1.修正ls命令中文乱码  
 2.修正log分页中文乱码  
 3.Git Bash中正常输入中文  
